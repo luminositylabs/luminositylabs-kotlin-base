@@ -69,12 +69,12 @@
         <dependency.dokka.version>2.3.0</dependency.dokka.version>
         <dependency.gson.version>2.15.0</dependency.gson.version>
         <dependency.http4k.version>6.61.0.0</dependency.http4k.version>
-        <dependency.jackson.version>2.22.4</dependency.jackson.version>
-        <dependency.jackson3.version>3.2.4</dependency.jackson3.version>
-        <dependency.jackson-annotation.version>2.22</dependency.jackson-annotation.version>
+        <dependency.jackson.version>2.23.0</dependency.jackson.version>
+        <dependency.jackson3.version>3.3.0</dependency.jackson3.version>
+        <dependency.jackson-annotation.version>2.23</dependency.jackson-annotation.version>
         <dependency.moshi.version>1.15.2</dependency.moshi.version>
         <dependency.ktlint.version>0.48.0</dependency.ktlint.version>
-        <dependency.kotlin-logging-jvm.version>8.0.6</dependency.kotlin-logging-jvm.version>
+        <dependency.kotlin-logging-jvm.version>8.0.7</dependency.kotlin-logging-jvm.version>
         <dependency.kotlinx-coroutines.version>1.11.0</dependency.kotlinx-coroutines.version>
     </properties>
 

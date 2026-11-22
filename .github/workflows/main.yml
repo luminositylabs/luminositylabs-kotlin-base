@@ -19,7 +19,7 @@ jobs:
             docker_build: true
             container_image_repo: luminositylabs
             container_image_name: openjdk
-            container_image_tag: 25.0.5.0.3_zulu-alpine-25.38.109
+            container_image_tag: 25.0.5.1_zulu-alpine-25.38.201
     name: Build on OS ${{ matrix.os }} using JDK ${{ matrix.jdk_version }}
     runs-on: ${{ matrix.os }}
     env:
